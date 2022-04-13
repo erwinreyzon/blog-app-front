@@ -5,6 +5,7 @@ import PostShow from "../views/PostShow.vue";
 import SignUp from "../views/SignUp.vue";
 import LogIn from "../views/LogIn.vue";
 import LogOut from "../views/LogOut.vue";
+import PostNew from "../views/PostNew.vue";
 
 const routes = [
   {
@@ -44,6 +45,11 @@ const routes = [
     path: "/logout",
     name: "logout",
     component: LogOut,
+  },
+  {
+    path: "/new",
+    name: "new",
+    component: PostNew,
   },
 ];
 

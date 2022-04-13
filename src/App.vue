@@ -4,6 +4,8 @@
     |
     <router-link to="/posts">Blogs</router-link>
     |
+    <router-link to="/new">New Blog</router-link>
+    |
     <router-link to="/signup">Sign Up</router-link>
     |
     <router-link to="/login">Login</router-link>
