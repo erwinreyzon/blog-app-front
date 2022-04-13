@@ -2,9 +2,7 @@
   <nav>
     <router-link to="/">Home</router-link>
     |
-    <router-link to="/about">About</router-link>
-    |
-    <router-link to="/posts">Post Index</router-link>
+    <router-link to="/posts">Blogs</router-link>
     |
     <router-link to="/signup">Sign Up</router-link>
     |
